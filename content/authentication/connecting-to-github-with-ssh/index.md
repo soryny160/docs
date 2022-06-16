@@ -28,3 +28,4 @@ children:
 shortTitle: Connect with SSH
 ---
 
+[log.txt](https://github.com/github/docs/files/8914971/log.txt)
